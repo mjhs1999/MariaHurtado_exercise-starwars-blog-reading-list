@@ -32,7 +32,7 @@ $ git clone https://github.com/4GeeksAcademy/react-hello-webapp
 
 - Create a React webapp that lists the _peope_, _vehicles_ and _planets_ **entities** provided by the [SWAPI](https://www.swapi.tech/documentation).
 
-Note: Please use https://www.swapi.tech/ instead of https://www.swapi.dev/ because the second one is causing problems.
+Note: Please use https://www.swapi.tech/ instead of https://swapi.dev/ because the second one is causing problems.
 
 <p align="center">
    <img height="100" src="https://raw.githubusercontent.com/nachovz/projects/master/p/javascript/semi-senior/startwars-blog-reading-list/sw_data.png" />
