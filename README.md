@@ -30,7 +30,7 @@ $ git clone https://github.com/4GeeksAcademy/react-hello-webapp
 
 #### Building the grid of Characters and Planets
 
-- Create a React webapp that lists the _peope_, _vehicles_ and _planets_ **entities** provided by the [SWAPI](https://www.swapi.tech/documentation).
+- Create a React webapp that lists the _people_, _vehicles_ and _planets_ **entities** provided by the [SWAPI](https://www.swapi.tech/documentation).
 
 Note: Please use https://www.swapi.tech/ instead of https://www.swapi.dev/ because the second one is causing problems.
 
