@@ -36,7 +36,7 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
 
 #### Construyendo la red de personajes y planetas.
 
-- Crear una aplicación web React que enumera _personas_, _vehiculos_ y _planetas_ **entidades** proporcionado por el [SWAPI](https://swapi.tech/documentation).
+- Crear una aplicación web React que enumera _personas_, _vehiculos_ y _planetas_ **entidades** proporcionado por el [SWAPI](https://www.swapi.tech/documentation).
 
 Nota: por favor utiliza swapi.tech y no swapi.dev porque la segunda esta dando problemas útimamente.
 
