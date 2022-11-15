@@ -10,13 +10,14 @@ We are going to be building a minimalist version of the [Star Wars Databank](htt
 
 Do not clone this repository.
 
-The first step to start coding is to clone this [react flux boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) on your local computer or Gitpod.
+The first step to start coding is to clone this [react flux boilerplate](https://github.com/4GeeksAcademy/react-flask-hello) on your local computer or Gitpod.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/react-hello-webapp) 
+a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/react-flask-hello) 
 
 b) If working locally type the following command from your command line: 
+
 ```sh
-$ git clone https://github.com/4GeeksAcademy/react-hello-webapp
+$ git clone https://github.com/4GeeksAcademy/react-flask-hello
 ````
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
