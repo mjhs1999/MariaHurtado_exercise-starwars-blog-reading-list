@@ -10,7 +10,7 @@ We are going to be building a minimalist version of the [Star Wars Databank](htt
 
 Do not clone this repository.
 
-The first step to start coding is to clone this [react flux boilerplate](https://github.com/4GeeksAcademy/react-flask-hello) on your local computer or Gitpod.
+The first step to start coding is to clone this [react + flask boilerplate](https://github.com/4GeeksAcademy/react-flask-hello) on your local computer or Gitpod.
 
 a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io/#https://github.com/4GeeksAcademy/react-flask-hello) 
 
