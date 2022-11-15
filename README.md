@@ -12,7 +12,7 @@ Do not clone this repository.
 
 The first step to start coding is to clone this [react flux boilerplate](https://github.com/4GeeksAcademy/react-flask-hello) on your local computer or Gitpod.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/react-flask-hello) 
+a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io/#https://github.com/4GeeksAcademy/react-flask-hello) 
 
 b) If working locally type the following command from your command line: 
 
