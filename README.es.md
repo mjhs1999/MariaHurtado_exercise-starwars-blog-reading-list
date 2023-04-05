@@ -1,4 +1,6 @@
-# Starwars Blog
+<!--hide-->
+# Lista de Lectura del Blog de Starwars
+<!--endhide-->
 
 _La fuerza es fuerte en este ejercicio...._
 
@@ -8,31 +10,28 @@ Vamos a construir una versión minimalista del [Banco de datos de Star Wars](htt
 
 ![Starwars Demo](https://github.com/breatheco-de/exercise-starwars-blog-reading-list/blob/master/preview.gif?raw=true)
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱 Cómo comenzar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js+flux boilerplate](https://gitpod.io#https://github.com/4GeeksAcademy/react-flask-hello) en tu computador local o con Gitpod.
+No clones este repositorio porque vamos a usar una plantilla diferente.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-flask-hello)
+Recomendamos abrir el `react flux boilerplate` usando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
- ```sh
- $ git clone https://github.com/4GeeksAcademy/react-flask-hello`.
-````
+Este es el repositorio que necesitas abrir o clonar:
 
 ```
-💡 Importante: 
-- Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
-- La API SWAPI no provee imagenes, puedes usar https://starwars-visualguide.com/assets/img/ para obtener las imagenes.
+https://github.com/4GeeksAcademy/react-hello-webapp
 ```
+
+**👉 Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
+
+💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## 📝 Instrucciones
 
-1. Empieza un nuevo projecto utilizando el template de [4Geeks Academy React Advanced](https://github.com/4GeeksAcademy/react-hello-webapp).
-2. Utiliza los componentes de bootstrap (Card, Buttons, etc.), prácticamente no necesitarás casi CSS propio.
-3. Tomate un tiempo para entender SWAPI.tech, esta sera el API que vamos a utilizar para obtener la información.
-4. Utiliza la función Fetch para consumir SWAPI.tech y obtener los Personajes (people), Vehiculos y Planetas y mostrarlos en tu web.
-5. Deberás tener un store centralizado con tu información (planetas, personajes).
-6. Para resolver la funcionalidad de "favoritos" te recomendamos declarar un arreglo `favorites` en el store y tener alli la lista de todos los planetas o personajes que se van marcando como favoritos.
+1. Usa componentes de Bootstrap, no necesitas **casi** CSS personalizado.
+2. Tómate un tiempo para comprender la API SWAPI.tech, esta será nuestra fuente de información, estaremos consumiendo esta API.
+3. Busca personas, vehículos y planetas SWAPI y muéstralos en tu aplicación.
+4. Declara un array de `favoritos` en tu tienda central y permite que el usuario agregue o elimine favoritos.
 
 #### Construyendo la red de personajes y planetas.
 
@@ -73,6 +72,6 @@ Las siguientes funciones no son necesarias para la solución final, pero puede d
 - `+ 1` Evita que el sitio web haga Fetch a la API de Startwars nuevamente si se actualiza (puedes usar el almacenamiento local para guardar la tienda en el navegador local).
 - `+ 3` Implementa una barra de búsqueda con "autocompletar" para Personajes y Planetas. Cuando haces clic en autocompletar, debería llevarte a la página Personaje o Planeta.
 
-
+Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
 
 
