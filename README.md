@@ -6,7 +6,7 @@ _The force is strong with this exercise..._
 
 We are going to be building a minimalist version of the [Star Wars Databank](https://www.starwars.com/databank) with a "Read Later" or "Favorites" list functionality.
 
-### !Aquí hay un Demo!
+### Here is a Demo!
 
 ![Starwars Demo](https://github.com/breatheco-de/exercise-starwars-blog-reading-list/blob/master/preview.gif?raw=true)
 
