@@ -35,9 +35,9 @@ https://github.com/4GeeksAcademy/react-hello-webapp
 
 ### Construyendo la vista principal
 
-- Crear una aplicación web React que enumera entidades de *personas*, *vehiculos* y *planetas* proporcionadas por la [SWAPI](https://www.swapi.tech/documentation).
+- Crear una aplicación web React que enumera entidades de *personas*, *vehículos* y *planetas* proporcionados por la [SWAPI](https://www.swapi.tech/documentation).
 
-> Nota: por favor utiliza swapi.tech y no swapi.dev porque la segunda esta dando problemas útimamente.
+> Nota: por favor utiliza swapi.tech y no swapi.dev porque la segunda está dando problemas últimamente.
 
 <p align="center">
    <img height="400" src="https://raw.githubusercontent.com/nachovz/projects/master/p/javascript/semi-senior/startwars-blog-reading-list/sw_data.png" />
@@ -51,7 +51,7 @@ https://github.com/4GeeksAcademy/react-hello-webapp
    <img height="400" src="https://raw.githubusercontent.com/nachovz/projects/master/p/javascript/semi-senior/startwars-blog-reading-list/sw_data_details.png" />
 </p>
 
-***Importante***: La SWAPI no proporciona las imágenes, pero puedes usar https://starwars-visualguide.com para obetener las imágenes. El enfoque de este ejercicio es practicar *fetch*, *router* y *context*. También puedes enfocarte en una paleta de colores y diseño simple para que se vea bien.
+***Importante***: La SWAPI no proporciona las imágenes, pero puedes usar https://starwars-visualguide.com para obtener las imágenes. El enfoque de este ejercicio es practicar *fetch*, *router* y *context*. También puedes enfocarte en una paleta de colores y diseño simple para que se vea bien.
 
 ***Importante 2***: no te preocupes si los datos que obtienes de la SWAPI no coinciden con los datos que ves en starwars.com.
 
@@ -59,7 +59,7 @@ Usa toda la información que proporciona la SWAPI (verifica la documentación y/
 
 ### Funcionalidad "Read later" o "Favoritos"
 
-Implementa una funcionalidad de "Read later", es decir, un botón que permita al usuario "guardar" el elemento (personaje, vehículo o planeta) en una lista especial. Esta lista se mostrará en la parte inferior de la página de inicio, se asemeja a la lista principal, pero solo muestra los elementos "guardados".
+Implementa una funcionalidad de "Read later", es decir, un botón que permita al usuario "guardar" el elemento (personaje, vehículo o planeta) en una lista especial. La ubicación de esta lista es a elección, mientras se muestre correctamente (en nuestra demo es un botón en la navbar); esta lista se asemeja a la lista principal, pero solo muestra los elementos "guardados".
 
 ### Uso de Context
 
