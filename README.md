@@ -59,7 +59,7 @@ Use all the information provided by the SWAPI (check the docs and/or the JSON re
 
 ### Read Later or Favorites functionality
 
-Implement a "Read Later" functionality, i.e., a button that allows the user to "save" the item (character, vehicle or planet) into a special list. This list will be shown at the bottom of the home page, it resembles the main list but only shows the "saved" elements.
+Implement a "Read Later" functionality, i.e., a button that allows the user to "save" the item (character, vehicle or planet) into a special list. The location of this list is your choise, as long it works as intended (in our demo it's a button on the navbar); this list resembles the main list but only shows the "saved" elements.
 
 ### Use the Context
 
